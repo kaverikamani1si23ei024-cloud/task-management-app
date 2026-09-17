@@ -1,0 +1,3 @@
+[functions.tasks-api]
+verify_jwt = false
+entrypoint = "./functions/tasks-api/index.ts"
